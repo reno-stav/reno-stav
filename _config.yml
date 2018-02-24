@@ -32,7 +32,7 @@ map:
     zoom: 17
     address: Zobor, 949 01 Nitra, Slovakia
     address_details: svg/min/logo.svg
-    google_maps_api_token: AIzaSyDXjeaQCQo3j411-c7c4iNIUzVHMRuwe8I
+    google_maps_api_token: AIzaSyBUwW1pvZ7Lj2PNCEUITKcdi7vOQr4HGns
 
 # Social settings
 facebook: http://facebook.com
@@ -43,7 +43,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2018 ELKAR s.r.o. - All rights reserved
 
 # Build settings
 markdown: kramdown
