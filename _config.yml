@@ -30,8 +30,9 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Zobor, 949 01 Nitra, Slovakia
     address_details: svg/min/logo.svg
+    google_maps_api_token: AIzaSyDXjeaQCQo3j411-c7c4iNIUzVHMRuwe8I
 
 # Social settings
 facebook: http://facebook.com
