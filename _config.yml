@@ -29,8 +29,8 @@ testimonials:
 
 # Map
 map:
-    zoom: 17
-    address: Zobor, 949 01 Nitra, Slovakia
+    zoom: 10
+    address:  949 01 Nitra, Slovakia
     address_details: svg/min/logo.svg
     google_maps_api_token: AIzaSyBUwW1pvZ7Lj2PNCEUITKcdi7vOQr4HGns
 
