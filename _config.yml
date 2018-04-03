@@ -16,7 +16,7 @@ hero:
 contact:
     phone: '0908 123 123'
     email: elkar@elkar.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    address: Nitra Slovakia
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -35,12 +35,12 @@ map:
     google_maps_api_token: AIzaSyBUwW1pvZ7Lj2PNCEUITKcdi7vOQr4HGns
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+# facebook: http://facebook.com
+# twitter: http://twitter.com
+# instagram: http://instagram.com
+# youtube: http://youtube.com
+# skype: skype:obaez_design?userinfo
+# feed: yes
 
 # Footer
 copyright: © 2018 ELKAR s.r.o. - All rights reserved

@@ -1,31 +1,15 @@
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: zahon-small.jpg
+  image_large: zahon-compressor.jpg
+  image_alt: Záhon
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: kruh-small.jpg
+  image_large: kruh-compressor.jpg
+  image_alt: Kruhová záhrada
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: jazero-final-small.jpg
+  image_large: jazero-final-compressor.jpg
+  image_alt: Jazierko
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
-
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
-
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
-
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
-
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
-  image_alt: something meaningful
+- image_thumb: 1-small.jpg
+  image_large: 1-compressor.jpg
+  image_alt: Záhrada

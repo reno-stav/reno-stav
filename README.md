@@ -12,7 +12,7 @@ cd elkar
 gem install bundler
 bundle install
 
-npm install
+sudo npm install grunt -g
 ```
 
 

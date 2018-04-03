@@ -1,23 +1,28 @@
-- icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: fa-image
+  title: Údržba zelene
+  description: Naša firma je dodávateľom komplexných služieb v oblasti návrhu,
+    realizácie a údržby zelene, údržby areálov veľkých plôch
 
-- icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: fa-pencil
+  title: Návrhy Záhrad
+  description:
+    Návrh záhrad
+    realizácia a údržba.
 
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+- icon: fa-cog
+  title: Odhrn snehu
+  description:
+    V zimnom
+    období odhrn snehu (ručne, strednou a veľkou mechanizáciou) a doprava.
 
-- icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: fa-bomb
+  title: Dalšia služba
+  description: čo robime ako robime preco robime na 3 riadky
 
-- icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: fa-bomb
+  title: Dalšia služba
+  description: čo robime ako robime preco robime na 3 riadky
 
-- icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: fa-bomb
+  title: Dalšia služba
+  description: čo robime ako robime preco robime na 3 riadky
