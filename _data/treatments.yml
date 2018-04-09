@@ -1,28 +1,32 @@
 - icon: fa-image
-  title: Údržba zelene
-  description: Naša firma je dodávateľom komplexných služieb v oblasti návrhu,
-    realizácie a údržby zelene, údržby areálov veľkých plôch
+  title: Kosenie
+  description: Kosenie malých i väčších plôch, úprava a údržba areálov a okrasných záhrad rôznych veľkostí
 
 - icon: fa-pencil
-  title: Návrhy Záhrad
-  description:
-    Návrh záhrad
-    realizácia a údržba.
+  title: Zakladanie trávnikov na kľúč
+  description: Príprava podložia, nákup a dovoz materiálu, aplikácia NPK a sietí proti krtkom, realizácia a poradenstvo
 
 - icon: fa-cog
+  title: Modelovanie a úprava terénu
+  description: Zemné práce a úpravy realizované mechanizáciou s príslušenstvom
+
+- icon: fa-bomb
+  title: Závlahy
+  description: Navrhovanie a realizácia závlahových systémov
+
+- icon: fa-bomb
+  title: Doprava
+  description: Dovoz / odvoz materiálu zabezpečeny vlastnou mechanizáciou
+
+- icon: fa-bomb
   title: Odhrn snehu
-  description:
-    V zimnom
-    období odhrn snehu (ručne, strednou a veľkou mechanizáciou) a doprava.
+  description: V zimnom období zabezpečujeme odhrn snehu, snehovú pohotovosť
 
 - icon: fa-bomb
-  title: Dalšia služba
-  description: čo robime ako robime preco robime na 3 riadky
+  title: Komplexná starostlivosť
+  description: Komplexná celoročná starostlivosť o Váš areál od jari po zimu
+
 
 - icon: fa-bomb
-  title: Dalšia služba
-  description: čo robime ako robime preco robime na 3 riadky
-
-- icon: fa-bomb
-  title: Dalšia služba
-  description: čo robime ako robime preco robime na 3 riadky
+  title: Zakladanie okrasných záhrad na kľúč
+  description:  "V spolupraci s kolegami z firmy <b>Four&nbsp;Elements</b> sme rozšírili našu ponuku o zakladanie okrasných záhrad na kľúč"

@@ -25,9 +25,9 @@
         width: 100%;
     }
     .hero-content-inner {
-        @include breakpoint(small) {
-            width: 50%;
-        }
+        //@include breakpoint(small) {
+          //  width: 50%;
+        //}
     }
     h1 {
         margin: 0 0 5px;
