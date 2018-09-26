@@ -2,7 +2,7 @@
 title: RENO - STAV SK s.r.o.
 description: "Stavebná Firma"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+url: "https://reno-stav.github.io/" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Contact info
