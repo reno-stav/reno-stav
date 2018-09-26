@@ -1,49 +1,20 @@
 # Site settings
-title: Elkar
-description: "A responsive Jekyll theme for dental clinics."
+title: RENO - STAV SK s.r.o.
+description: "Stavebná Firma"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
-# Hero
-hero: 
-    hero_img: hero.jpg
-    hero_title: 'ELKAR s.r.o.'
-    hero_description: "Správa, úprava a zakladanie zelene areálov, okrasných záhrad a parkov"
-
-
 # Contact info
 contact:
-    phone: '0915 955 938'
-    email: elkarslovakia@gmail.com
+    phone: '0905 372 058'
+    email: 'd.lieskovsky@gmail.com'
     address: Nitra Slovakia
 
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
-
-# Testimonials
 testimonials:
     testimonials_img: parallax.jpg
 
-# Map
-map:
-    zoom: 10
-    address:  949 01 Nitra, Slovakia
-    address_details: svg/min/logo.svg
-    google_maps_api_token: AIzaSyBUwW1pvZ7Lj2PNCEUITKcdi7vOQr4HGns
-
-# Social settings
-# facebook: http://facebook.com
-# twitter: http://twitter.com
-# instagram: http://instagram.com
-# youtube: http://youtube.com
-# skype: skype:obaez_design?userinfo
-# feed: yes
-
-# Footer
-copyright: © 2018 ELKAR s.r.o. - All rights reserved
+copyright: © 2018 RENO - STAV SK s.r.o. - All rights reserved
 
 # Build settings
 markdown: kramdown

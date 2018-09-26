@@ -7,8 +7,8 @@ layout: default
     <div class="hero-content">
         <div class="container-fluid">
             <div class="hero-content-inner">
-                <h1>ELKAR s.r.o.</h1>
-                <p>Správa, úprava a zakladanie zelene areálov, okrasných záhrad a parkov</p>
+                <h1>{{site.title}}</h1>
+                <p>{{site.description}}</p>
             </div>
         </div>
     </div>
@@ -21,54 +21,18 @@ layout: default
         <div class="row">
             <div class="col-sm-6">
                 <h3>O nás</h3>
-                <!---
-                <p>
-                  Ponúkame kompletné služby starostlivosti o zeleň a realizáciu od prvého návrhu, vizualizáciu, dopravu a odvoz materiálov až po následnú starostlivosť a údržbu zelene a poradenstvo. Taktiež vieme zabezpečiť odhrn snehu v zimných mesiacoch a prepravu materiálu nákladnými automobilmi v rámci SR.
-                </p>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                          <i class="fa fa-users green"></i>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                      <p>
-                        Kosenie vyzinacom, krovinnorezom bubnovymi a roacnymi kosackami,storjove kosenie strednou a tazkou mmmmechanizaciou
-                      </p>
-                    </div>
-                </div>
-                -->
-
-
 
                 <p>
-                  Naša firma je dodávateľom komplexných služieb v oblasti návrhu,
-                  realizácie a údržby zelene, údržby areálov veľkých plôch a v zimnom
-                  období odhrn snehu (ručne, strednou a veľkou mechanizáciou) a dopravy.
-                </p>
-                <p>
-                  Našimi zákazníkmi sú prevažne súkromné osoby, väčšie i menšie súkromné spoločnosti .
-                  S našimi zákazníkmi sa snažíme o korektnú, dlhodobú a obojstranne výhodnú spoluprácu.
+                  Sme stavebná firma ktorá pôsobí na Slovenskom aj na zahraničnom trhu s množstvo
+                  realizovaných zákaziek v oblasti rekonštrukcií a výstavby rodinných domov a bytov ako aj
+                  administratívnych budov. Našou domenou je nadštandardná kvalita so zreteľom na konecneho
+                  uzivatela.
                 </p>
 
                 <p>
-                  Ponúkame kompletné služby starostlivosti o zeleň a realizáciu od prvého návrhu, vizualizáciu, dopravu a odvoz materiálov až po následnú starostlivosť a údržbu zelene a poradenstvo. Taktiež vieme zabezpečiť odhrn snehu v zimných mesiacoch a prepravu materiálu nákladnými automobilmi v rámci SR.
+                  Spolupracujeme s tímom projektantov a architektov. Zabezpečujeme dané dielo od projektovej
+                  dokumentácie cez realizáciu až po užívacie povolenie.
                 </p>
-                <!---
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                          <i class="fa fa-users green"></i>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                      <p>
-                        todo
-                      </p>
-                    </div>
-                </div>
-                --->
 
             </div>
             <div class="col-sm-6">
@@ -79,6 +43,23 @@ layout: default
 </div>
 <!-- End About -->
 
+<div class="three-shade-col" id="contact">
+  <div class="col-sm-6">
+    <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
+    <h3>Kontakt</h3>
+    <ul>
+      {% if site.contact.phone %}<li><strong>Telefón:</strong> {{ site.contact.phone }}</li>{% endif %}
+      {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
+    </ul>
+  </div>
+  <div class="col-sm-6">
+    <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
+    <h3>Lokácia</h3>
+    <p>
+      Pôsobime v oblasti Nitry
+    </p>
+  </div>
+</div>
 
 
 <!-- Start Treatments -->
@@ -103,254 +84,3 @@ layout: default
 
 
 
-<!-- Start About -->
-<div id="kosenie" class="about">
-    <div class="container-fluid">
-      <!-- <h2 class="section-title">Kosenie</h2> -->
-
-        <div class="row">
-            <div class="col-sm-6">
-              <h3>Kosenie</h3>
-
-                <p>
-                  Kosenie malých a rozľahlých plôch, úprava a údržba areálov a okrasných záhrad rôznych veľkostí.
-                </p>
-
-                <ul>
-                  <li>
-                    Kosenie vyžínačom, krovinorezom, bubnovými a rotačnými kosačkami, strojové
-                    kosenie strednou a tažkou mechanizáciou
-                  </li>
-                  <li>Vertikutácia/aerifikácia (jednostranná/obojstranná), prerezávanie trávnika "nožmi"</li>
-                  <li>Strihanie živých plotov, kríkov, rez konárov a výrub stromov</li>
-                  <li>Vieme zabezpečiť vypilovanie konárov vo výškach kvalifikovaným arboristom</li>
-                  <li>Pieskovanie</li>
-                </ul>
-
-                <!---
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                          <i class="fa fa-users green"></i>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                      <p>
-                        Kosenie vyzinacom, krovinnorezom bubnovymi a roacnymi kosackami,storjove kosenie strednou a tazkou mmmmechanizaciou
-                      </p>
-                    </div>
-                </div>
-
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                          <i class="fa fa-users green"></i>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                      <p>
-                        vertikulacia (jednostranna/obojstranna), prerezavanie travnika "nozmi"
-                      </p>
-                    </div>
-                </div>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                          <i class="fa fa-users green"></i>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                      <p>
-                        strihanie zivych plotov, krikov ,rez konarov a vyrub stromov
-                      </p>
-                    </div>
-                </div>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                          <i class="fa fa-users green"></i>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                      <p>
-                        vieme zabzpecit vypilovanie konarov vo vyskach kvalifikovanym arboristom
-                      </p>
-                    </div>
-                </div>
-
-                -->
-            </div>
-            <div class="col-sm-6">
-                <img src="{{ site.baseurl }}/img/kosenie.jpg" alt="Kosenie">
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End About -->
-
-
-
-
-<!-- Start About -->
-<div id="zakladanie-travnikov" class="about">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-6">
-        <img src="https://images.pexels.com/photos/7174/summer-grass.jpg?auto=compress&cs=tinysrgb&h=350" alt="...">
-      </div>
-      <div class="col-sm-6">
-        <h3>Zakladanie trávnikov</h3>
-        <ul>
-          <li>Predpríprava zeminy (odburinenie, rekultivácia a vyrovnánie)</li>
-          <li>Nákup a dovoz materiálu (trávnikové koberece, osivo, NPK, siete proti krtkom)</li>
-          <li>Prípadná aplikácia NPK</li>
-          <li>Rozloženie sieti proti krtkom</li>
-          <li>Vlastné uloženie trávnikových kobercov / vysiatie osiva</li>
-          <li>Závlaha a poradenstvo</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- End About -->
-
-
-
-<!-- Start About -->
-<div id="modelovanie-terenu" class="about">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-6">
-        <h3>Modelovanie terénu</h3>
-
-        <p>Zemné práce a úpravy realizované mechanizáciou s príslušenstvom:</p>
-
-        <ul>
-          <li>rýpadlo</li>
-          <li>nakladač</li>
-          <li>radlica</li>
-          <li>kosačka</li>
-          <li>brány</li>
-          <li>valec</li>
-        </ul>
-
-        <h3>Závlahy</h3>
-
-        <ul>
-          <li>Návrh a poradenstvo</li>
-          <li>Odborná štúdia a projekt</li>
-          <li>Nákup a dovoz materialu</li>
-          <li>Vlastná realizácia</li>
-        </ul>
-
-      </div>
-      <div class="col-sm-6">
-        <img src="{{ site.baseurl }}/img/modelovanie.jpg" alt="Modelovanie terenu">
-      </div>
-    </div>
-  </div>
-</div> <!-- End About --> 
-
-
-
-
-
-
-
-<!-- Start About -->
-<div id="okrasne-zahrady" class="about">
-    <div class="container-fluid">
-      <!-- <h2 class="section-title">Kosenie</h2> -->
-
-        <div class="col-sm-6">
-          <img src="{{ site.baseurl }}/img/okrasne-zahrady.jpg" alt="Okrasne Zahrady">
-        </div>
-
-        <div class="row">
-            <div class="col-sm-6">
-              <h3>Okrasné záhrady na kľúč</h3>
-
-
-              <p>
-                V spolupráci s kolegami z firmy <strong>Four Elements</strong>
-                sme našu ponuku rozšírili o <strong>zakladanie okrasných záhrad na kľúč</strong>.
-              </p>
-
-              <ul>
-                <li>Zameranie</li>
-                <li>Návrh a odborné poradenstvo</li>
-                <li>Vypracovanie projektu</li>
-                <li>Úprava a modelácia terénu</li>
-                <li>Nákup kvalitného sadbového materiálu</li>
-                <li>Vlastné založenie zelene</li>
-                <li>Realizácia malých záhradných stavieb</li>
-                <li>Dovoz a odvoz materialu a zeleného odpadu zabezpečený vlastnou mechanizáciou</li>
-              </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End About -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Start Gallery -->
-<div id="gallery" class="gallery">
-        
-    <h2 class="section-title">Galéria </h2>
-
-    {% for images in site.data.gallery %}
-        <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
-            <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
-            </div>
-            <div class="expandable-box-bottom">
-                <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
-            </div>
-        </a>
-    {% endfor %}
-
-</div>
-<!-- End Gallery -->
-
-
-<!-- Start 3 columns -->
-<div class="three-shade-col" id="contact">
-  <div class="col-sm-6">
-    <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
-    <h3>Kontakt</h3>
-    <ul>
-      {% if site.contact.phone %}<li><strong>Telefón:</strong> {{ site.contact.phone }}</li>{% endif %}
-      {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
-    </ul>
-  </div>
-  <div class="col-sm-6">
-    <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
-    <h3>Lokácia</h3>
-    <p>
-      Pôsobime v oblasti Nitry
-    </p>
-  </div>
-</div>
-<!-- End 3 columns -->
-
-
-
-
-<!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
-<!-- End Map -->
