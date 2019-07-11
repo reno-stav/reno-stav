@@ -5,8 +5,8 @@
     <description>Stavebná Firma</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Jul 2019 16:10:25 +0200</pubDate>
-    <lastBuildDate>Thu, 11 Jul 2019 16:10:25 +0200</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2019 16:24:09 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2019 16:24:09 +0200</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
   </channel>
